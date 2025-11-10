@@ -1,0 +1,21 @@
+title: "Glib Tkachenko"
+description: "Personal site & portfolio"
+url: "https://glibtkachenko.github.io"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+nav:
+  - {title: "About", url: "/"}
+  - {title: "Projects", url: "/projects"}
+  - {title: "CV", url: "/cv/cv.pdf", external: true}
+
+social:
+  github: glibtkachenko
+  linkedin: glibtkachenko
+  email: 124742651@umail.ucc.ie
+
+permalink: pretty

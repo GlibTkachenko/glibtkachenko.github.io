@@ -1,0 +1,50 @@
+# Featured first
+- title: HERMES — Hybrid Exoplanet Recognition & Multi-planet Extraction
+  slug: hermes
+  year: 2025
+  tags: [JAX/Flax, Transformers, Astrophysics]
+  blurb: Hybrid detector from light curves combining transformer models with physics-based orbital checks.
+  repo: https://github.com/OrryxTeam/hermes  
+  cover: /assets/projects/hermes.jpg
+  featured: true
+
+- title: MiniGrad — Reverse-Mode Autodiff Engine
+  slug: minigrad
+  year: 2025
+  tags: [Autodiff, PyTorch-style API, Graph Engine]
+  blurb: Compact autodiff engine with reverse-mode grads, broadcasting, and a minimal NN layer API.
+  repo: https://github.com/GlibTkachenko/minigrad
+  cover: /assets/projects/minigrad.png
+  featured: true
+
+- title: High-Performance Text Summarizer
+  slug: text-summarizer
+  year: 2025
+  tags: [Flan-T5, JAX/Flax, TPU]
+  blurb: Optimized Flan-T5 fine-tuning on TPUs with XLA JIT/mixed precision and sharded inputs; low-latency API.
+  # repo: (private or coming soon)
+  cover: /assets/projects/summarizer.png
+
+- title: Multilingual AI Chatbot
+  slug: multilingual-chatbot
+  year: 2024
+  tags: [PyTorch, MLOps, Docker]
+  blurb: English/Ukrainian intent-classifier chatbot with CI/CD and containerized workflow.
+  repo: https://github.com/GlibTkachenko/Multilingual-AI-chatbot-from-scratch
+  cover: /assets/projects/chatbot.png
+
+- title: Image Classifier 
+  slug: image-classifier
+  year: 2024
+  tags: [CV, CNN, PyTorch]
+  blurb: Baseline image classifier with reproducible training and metrics dashboarding.
+  repo: https://github.com/GlibTkachenko/image-classifier
+  cover: /assets/projects/image-classifier.png
+
+- title: Stock Price Predictor
+  slug: stock-price-predictor
+  year: 2023
+  tags: [Time Series, LSTM, Streamlit]
+  blurb: Streamlit app for stock price prediction with yfinance ingestion and basic model monitoring.
+  repo: https://github.com/GlibTkachenko/stock_price_predictor
+  cover: /assets/projects/stock.png
