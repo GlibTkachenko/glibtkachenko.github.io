@@ -1,0 +1,14 @@
+# Build output
+_site/
+
+# Caches
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# Logs
+*.log
