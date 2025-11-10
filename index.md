@@ -8,7 +8,7 @@ title: ""
 <div class="about-hero" markdown="1">
 <div class="about-text" markdown="1">
 
-Hello there — I'm an undergraduate researcher at the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/) and a BSc (Honours) student in Data Science & AI at [University College Cork](https://www.ucc.ie/). I'm interested in building systems that can reason about the world and act intelligently in it.
+Hello there — I'm an undergraduate researcher at the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/) and a BSc (Honours) student in Data Science & AI at University College Cork. I'm interested in building systems that can reason about the world and act intelligently in it.
 {: .lead}
 
 My research focuses on **reasoning** and **robotics**. I work on agent systems that combine learning and structured reasoning to solve complex tasks — whether that means a language model deciding which tools to use, or a robot learning to manipulate objects through interaction. Currently I'm involved with the **ToolBrain** project, exploring how agents can leverage external tools and APIs to extend their capabilities beyond what's encoded in model weights.
@@ -18,7 +18,6 @@ I care about building things that work reliably and can be reproduced. Outside o
 </div>
 
 <div class="about-photo">
-<!-- Place your profile photo at /assets/images/profile.jpg (recommended size ~500x500). Replace the file with your real photo to show it here. -->
 <img src="/assets/images/profile.jpg" alt="Glib Tkachenko" class="profile-img" />
 </div>
 </div>
