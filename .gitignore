@@ -12,3 +12,7 @@ vendor/
 
 # Logs
 *.log
+
+# artifacts
+.DS_Store
+
