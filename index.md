@@ -11,10 +11,7 @@ title: ""
 Hello there — I'm an undergraduate researcher at the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/) and a BSc (Honours) student in Data Science & AI at University College Cork. I'm interested in building systems that can reason about the world and act intelligently in it.
 {: .lead}
 
-My research focuses on **reasoning** and **robotics**. I work on agent systems that combine learning and structured reasoning to solve complex tasks — whether that means a language model deciding which tools to use, or a robot learning to manipulate objects through interaction. Currently I'm involved with the **ToolBrain** project, exploring how agents can leverage external tools and APIs to extend their capabilities beyond what's encoded in model weights.
-
-I care about building things that work reliably and can be reproduced. Outside of research I enjoy building some projects, playing chess and reading books.
-
+My research focuses on **world models** and **reasoning**. Currently I work on world models for continuous and multi-task reasoning, and I'm also contributing to the **ToolBrain** project.
 </div>
 
 <div class="about-photo">
@@ -26,9 +23,7 @@ I care about building things that work reliably and can be reproduced. Outside o
 
 ### Research Interests
 
-- **Reasoning**: Developing systems that can perform multi-step logical reasoning, planning, and decision-making
-- **Robotics**: Learning-based approaches for manipulation, navigation, and embodied intelligence
-- **Agent Systems**: Building autonomous agents that leverage tools, memory, and structured knowledge to solve complex tasks
+World Models • Reasoning • Agent Systems • Robotics
 
 ---
 
@@ -56,7 +51,7 @@ Grade: First Class Honours (first year) — successfully completed first year an
 <summary>Key coursework</summary>
 <ul>
 <li>Programming, Computer Architecture, Discrete Mathematics</li>
-<li>Relational Databases, Web Development</li>
+<li>Relational Databases, Web Development, Economics</li>
 <li>Audited: Calculus, Introduction to Analysis, Deep Learning</li>
 </ul>
 </details>
